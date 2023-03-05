@@ -1,5 +1,5 @@
-# neon_fft
-fast fft implementation based on NEON
+# NEON FFT
+Fast fft implementation based on NEON
 
 ## Current building status matrix
 
